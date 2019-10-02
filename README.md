@@ -9,4 +9,4 @@ Les couleurs des éléments de la grille sont fixées comme suit (voir figure ci
 - Rouge pour le robot
 - Vert pour l’objectif.
 
-L'objectif est de déplacer le robot en suivant l’algorithme « largeur d’abord »,  et de visualisez les déplacements  du robot en évitant les obstacles pour choisir et visualiser le plus court chemin allant du départ jusqu'à l'objectif.
+L'objectif est de déplacer le robot en suivant l’algorithme « largeur d’abord »,  et de visualisez ses déplacements tout en évitant les obstacles pour choisir et visualiser le plus court chemin allant du départ jusqu'à l'objectif.
